@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/uiPage", {data:[{}],fetch:{},mutations:[]});

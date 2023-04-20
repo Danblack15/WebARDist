@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FWebARDist\u002F_nuxt\u002Fstatic\u002F1682004679",layout:"arLayout",error:a,state:{excursions:{excursions:a}},serverRendered:true,routePath:"\u002FTryIt",config:{_app:{basePath:"\u002FWebARDist\u002F",assetsPath:"\u002FWebARDist\u002F_nuxt\u002F",cdnURL:a}}}}(null));
